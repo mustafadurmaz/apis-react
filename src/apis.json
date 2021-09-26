@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Hunter",
+        "category":"Data access",
+        "descripton":"Hunter API makes it easy to find or verify professional email adresses.",
+        "icon":"img/icon/hunter.png",
+        "bookmark":false
+    },
+    {
+        "id":2,
+        "name":"Twilio",
+        "category":"Data access",
+        "descripton":"Twilio API makes it easy to find or verify professional email adresses.",
+        "icon":"img/icon/twilio.png",
+        "bookmark":false
+    },
+    {
+        "id":3,
+        "name":"WhatsApp Business",
+        "category":"Data access",
+        "descripton":"WhatsApp Business API makes it easy to find or verify professional email adresses.",
+        "icon":"img/icon/whatsapp.png",
+        "bookmark":false
+    },
+    {
+        "id":4,
+        "name":"Stripe",
+        "category":"Data access",
+        "descripton":"Stripe API makes it easy to find or verify professional email adresses.",
+        "icon":"img/icon/stripe.png",
+        "bookmark":false
+    },
+    {
+        "id":5,
+        "name":"Typeform",
+        "category":"Data access",
+        "descripton":"Typeform API makes it easy to find or verify professional email adresses.",
+        "icon":"img/icon/typeform.png",
+        "bookmark":false
+    },
+    {
+        "id":6,
+        "name":"BlaBlaCar",
+        "category":"Data access",
+        "descripton":"BlaBlaCar API makes it easy to find or verify professional email adresses.",
+        "icon":"img/icon/blabla.png",
+        "bookmark":false
+    },
+    {
+        "id":7,
+        "name":"Meteorologistik Institut",
+        "category":"Data access",
+        "descripton":"Meteorologistik Institut API makes it easy to find or verify professional email adresses.",
+        "icon":"img/icon/meteo.jpg",
+        "bookmark":false
+    },
+    {
+        "id":8,
+        "name":"Asana",
+        "category":"Data access",
+        "descripton":"Asana API makes it easy to find or verify professional email adresses.",
+        "icon":"img/icon/asana.png",
+        "bookmark":false
+    },
+    {
+        "id":9,
+        "name":"Mailchimp",
+        "category":"Data access",
+        "descripton":"Mailchimp API makes it easy to find or verify professional email adresses.",
+        "icon":"img/icon/mailchimp.png",
+        "bookmark":false
+    }
+]
